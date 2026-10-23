@@ -1,0 +1,11 @@
+Model Information:
+* title:	simple collection of low poly street lights v3
+* source:	https://sketchfab.com/3d-models/simple-collection-of-low-poly-street-lights-v3-2411cab477054f6697d4658f047e2fa0
+* author:	lupas (https://sketchfab.com/ivan.anton.albarracin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "simple collection of low poly street lights v3" (https://sketchfab.com/3d-models/simple-collection-of-low-poly-street-lights-v3-2411cab477054f6697d4658f047e2fa0) by lupas (https://sketchfab.com/ivan.anton.albarracin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

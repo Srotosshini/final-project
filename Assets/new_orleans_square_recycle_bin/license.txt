@@ -1,0 +1,11 @@
+Model Information:
+* title:	New Orleans Square Recycle Bin
+* source:	https://sketchfab.com/3d-models/new-orleans-square-recycle-bin-1a483a2207a948e98d0889f49d0be92a
+* author:	Kastle (https://sketchfab.com/kastle)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "New Orleans Square Recycle Bin" (https://sketchfab.com/3d-models/new-orleans-square-recycle-bin-1a483a2207a948e98d0889f49d0be92a) by Kastle (https://sketchfab.com/kastle) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

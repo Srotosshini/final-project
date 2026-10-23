@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disney's Mickey Mouse - Classic
+* source:	https://sketchfab.com/3d-models/disneys-mickey-mouse-classic-e5435d89bb2148e6b1f6f783d3905c1c
+* author:	Red_homie (https://sketchfab.com/Red_homie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disney's Mickey Mouse - Classic" (https://sketchfab.com/3d-models/disneys-mickey-mouse-classic-e5435d89bb2148e6b1f6f783d3905c1c) by Red_homie (https://sketchfab.com/Red_homie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

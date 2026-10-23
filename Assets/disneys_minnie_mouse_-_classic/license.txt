@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disney's Minnie Mouse - Classic
+* source:	https://sketchfab.com/3d-models/disneys-minnie-mouse-classic-8ca39af0cc0f4c729adbe78d96f988ca
+* author:	Red (https://sketchfab.com/Red_homie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disney's Minnie Mouse - Classic" (https://sketchfab.com/3d-models/disneys-minnie-mouse-classic-8ca39af0cc0f4c729adbe78d96f988ca) by Red (https://sketchfab.com/Red_homie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

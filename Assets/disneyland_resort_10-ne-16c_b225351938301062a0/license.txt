@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disneyland Resort 10-NE-16C B225351938301062A0
+* source:	https://sketchfab.com/3d-models/disneyland-resort-10-ne-16c-b225351938301062a0-c5f2bf83f728424d96eb5f450f48fb08
+* author:	patrick.young (https://sketchfab.com/patrick.young)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disneyland Resort 10-NE-16C B225351938301062A0" (https://sketchfab.com/3d-models/disneyland-resort-10-ne-16c-b225351938301062a0-c5f2bf83f728424d96eb5f450f48fb08) by patrick.young (https://sketchfab.com/patrick.young) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

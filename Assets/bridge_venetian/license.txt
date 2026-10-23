@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bridge Venetian
+* source:	https://sketchfab.com/3d-models/bridge-venetian-0b869295f06d425488751db900de8141
+* author:	Kevin.Piemontois (https://sketchfab.com/Kevin.Piemontois)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bridge Venetian" (https://sketchfab.com/3d-models/bridge-venetian-0b869295f06d425488751db900de8141) by Kevin.Piemontois (https://sketchfab.com/Kevin.Piemontois) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

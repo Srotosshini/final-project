@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hedge / green fence
+* source:	https://sketchfab.com/3d-models/hedge-green-fence-617f53a453ff4eb3be95d0e5bbe6a882
+* author:	Kirill Chechin (https://sketchfab.com/k.che4in)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hedge / green fence" (https://sketchfab.com/3d-models/hedge-green-fence-617f53a453ff4eb3be95d0e5bbe6a882) by Kirill Chechin (https://sketchfab.com/k.che4in) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

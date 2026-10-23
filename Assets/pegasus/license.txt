@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pegasus
+* source:	https://sketchfab.com/3d-models/pegasus-62f6e4c9dcc4489b98729661e51cfadc
+* author:	Batuhan13 (https://sketchfab.com/Batuhan13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pegasus" (https://sketchfab.com/3d-models/pegasus-62f6e4c9dcc4489b98729661e51cfadc) by Batuhan13 (https://sketchfab.com/Batuhan13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

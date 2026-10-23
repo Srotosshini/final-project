@@ -1,0 +1,8 @@
+Model Information:
+* title:	Vanillite Ice Cream Cart
+* source:	https://sketchfab.com/3d-models/vanillite-ice-cream-cart-9b2c25be4857454786513b2c9cb2c0a3
+* author:	Goitya (https://sketchfab.com/Goitya)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

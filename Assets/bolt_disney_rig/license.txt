@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bolt (Disney) Rig
+* source:	https://sketchfab.com/3d-models/bolt-disney-rig-d572e317326148a0a9aaa3151e7bd647
+* author:	Guilherme Navarro (https://sketchfab.com/guinavarro.al)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bolt (Disney) Rig" (https://sketchfab.com/3d-models/bolt-disney-rig-d572e317326148a0a9aaa3151e7bd647) by Guilherme Navarro (https://sketchfab.com/guinavarro.al) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

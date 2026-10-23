@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fountain
+* source:	https://sketchfab.com/3d-models/fountain-300ff8f626fe44e2a9dafc665cea81c5
+* author:	Andrii Kryshtop (https://sketchfab.com/Senetin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fountain" (https://sketchfab.com/3d-models/fountain-300ff8f626fe44e2a9dafc665cea81c5) by Andrii Kryshtop (https://sketchfab.com/Senetin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

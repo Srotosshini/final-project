@@ -1,0 +1,11 @@
+Model Information:
+* title:	Single Peony Flower
+* source:	https://sketchfab.com/3d-models/single-peony-flower-0086ca4bb65b40c290c319b6543916ec
+* author:	AaronABC (https://sketchfab.com/AaronABC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Single Peony Flower" (https://sketchfab.com/3d-models/single-peony-flower-0086ca4bb65b40c290c319b6543916ec) by AaronABC (https://sketchfab.com/AaronABC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
